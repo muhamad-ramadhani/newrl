@@ -92,3 +92,49 @@ Ketik  ```Testnet```
 - Import Wallet
 - Isi dengan output yang tadi
 - Isi detail lainnya
+
+## 4. Request Faucet
+https://wallet.newrl.net/faucet/
+
+
+<p align="center">
+  <img height="auto" height="auto" src="https://user-images.githubusercontent.com/72949170/194708435-d5ed5bf7-c501-4ac5-83bd-83de0f61a229.png">
+</p>
+
+
+## 5. Run Node
+```
+screen -S newrl
+```
+
+```
+scripts/start.sh testnet
+```
+
+<p align="center">
+  <img height="auto" height="auto" src="https://user-images.githubusercontent.com/72949170/194708533-cf7c2779-760d-43f8-ab2c-f0be44ac5f28.png">
+</p>
+
+**Untuk Close screen kalian bisa CTRL+A+D**
+
+## 6. Stake
+**Buka Wallet**
+**Klik Garis tiga di pojok kiri atas**
+**Pilih ``Run a Node``**
+**Stake**
+
+<p align="center">
+  <img height="auto" height="auto" src="https://user-images.githubusercontent.com/72949170/194708681-db9c26ca-1a41-44be-b08b-87e8259adcff.png">
+</p>
+
+## 7. Cek
+**Cek riwayat transaksi**
+```
+http://archive1-testnet1.newrl.net:8421/sc-state?table_name=stake_ledger&contract_address=ct1111111111111111111111111111111111111115&unique_column=wallet_address&unique_value=YOURADDRESS
+```
+**Cek riwayat mining**
+```
+http://144.91.99.67:8421/get-incoming-trustscores?dst_wallet_address=YOURADDRESS
+```
+
+## DONE
