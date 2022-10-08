@@ -10,7 +10,7 @@
 
 
 Dokumen Official :
-> [Running Node](https://docs.inery.io/docs/create-token-3](https://docs.newrl.net/Validating/running-validator-node/)
+> [Running Node](https://docs.newrl.net/Validating/running-validator-node/)
 
 **LANGSUNG AJA KITA MULAI**
 
