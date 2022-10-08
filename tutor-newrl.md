@@ -33,7 +33,7 @@ sudo apt install python3.9
 ```
 *Jika saat install python eror, kalian bisa ke sini*
 <p>
-<a href="github.com/muhamadramadhani/](https://github.com/muhamad-ramadhani/inery/blob/main/master-node.md" target="_blank">Cara Install Python 3.9 Lengkap</a>
+<a href="https://github.com/muhamad-ramadhani/newrl/blob/main/install_python.md" target="_blank">Cara Install Python 3.9 Lengkap</a>
 </p>
 
 **Install Pip dan Python3-venv**
