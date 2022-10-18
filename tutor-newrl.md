@@ -85,6 +85,7 @@ Ketik  ```Testnet```
 > Output
 > 
 > {"public": "fefcdb9c187f241ffbe76ef89ee9ff85dcd6a1ba0ad60dedaeb195d4azzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz", "private": "be46bf4f061d6a6d813005zzzzzzzzzzzzzzzzzzzzzzzzzzz", "address": "0x0000000000000000000000000000000000000DEAD"}
+
 **WAJIB BACKUP**
 
 **Pergi ke https://wallet.newrl.net/**
