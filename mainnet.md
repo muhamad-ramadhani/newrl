@@ -105,7 +105,8 @@ screen -S newrl
 scripts/start.sh mainnet
 ```
 
-![image](https://user-images.githubusercontent.com/72949170/199658778-3ec88163-eecf-4637-b86d-75c4cd003d5e.png)
+![image](https://user-images.githubusercontent.com/72949170/199659827-eb4f59df-6f73-4198-946b-5b213d34bf30.png)
+
 
 Untuk keluar dari sesi logs tekan ```CTRL+A+D```
 Untuk kembali cek logs
