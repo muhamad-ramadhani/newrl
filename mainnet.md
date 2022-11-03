@@ -34,11 +34,11 @@ sudo ufw allow ssh && sudo ufw allow 8456 && sudo ufw enable
 sudo apt update && sudo apt upgrade -y
 ```
 
-Install Pelengkap hidup
+- Install Pelengkap hidup
 ```
 sudo apt install -y build-essential libssl-dev libffi-dev git curl screen
 ```
-Install Python 3.9 (jika sudah tak usah)
+- Install Python 3.9 (jika sudah tak usah)
 ```
 sudo apt install python3.9
 ```
